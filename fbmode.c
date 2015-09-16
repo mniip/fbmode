@@ -134,7 +134,6 @@ int main(int argc, const char *argv[])
 		printf("mmio_start 0x%lx\n", fsi.mmio_start);
 		printf("mmio_len 0x%x\n", fsi.mmio_len);
 		printf("accel 0x%x\n", fsi.accel);
-		printf("capabilities 0x%x\n", fsi.capabilities);
 
 	}
 	else
